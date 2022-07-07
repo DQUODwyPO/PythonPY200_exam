@@ -1,0 +1,6 @@
+class LinkedList:
+    ...
+
+
+class DoubleLinkedList(LinkedList):
+    ...
